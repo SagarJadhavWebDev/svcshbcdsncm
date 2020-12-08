@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = {__rewrites:[],"/":["static\u002Fchunks\u002Fpages\u002Findex.js"],"/Content":["static\u002Fchunks\u002Fpages\u002FContent.js"],"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/next/dist/pages/_error":["static\u002Fchunks\u002Fpages\u002Fnext\u002Fdist\u002Fpages\u002F_error.js"],sortedPages:["\u
