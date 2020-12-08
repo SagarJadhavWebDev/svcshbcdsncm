@@ -45,7 +45,7 @@ console.log(posts)
     )
   }
   
- const {publicRuntimeConfig} = getConfig();
+ //const {publicRuntimeConfig} = getConfig();
 
   export async function getServerSideProps(context:any) {
     
